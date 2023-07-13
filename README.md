@@ -1,4 +1,4 @@
-# team17
+# Teaching a Walking Agent with Genetic Algorithms
 
 ## contents
 
@@ -32,6 +32,8 @@
     - running `main` produces a `trajectory.json` file that the visualization tries to replicate
     - approximate error between the original simulation and the visualization is given in the command-line
     - [TODO] error can be improved, but it would take a bit of work
+  
+This is a joint project by Elie Eshoa, Ricky Williams, May Soshi, and Omar Abdel Haq.
 
 ## how to run `hellobox2d` demo (w/ Docker)
 
